@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+		<ScrollView id='scrollView'>
+			<Button id='iniciar'>Iniciar</Button>
+			<Button id='terminar'>Terminar</Button>
+			<Button id="mapa">mapa</Button>
+			<Label id="label"></Label>
+		</ScrollView>
+	</Window>
+</Alloy>

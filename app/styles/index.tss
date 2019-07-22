@@ -1,0 +1,34 @@
+".container": {
+	backgroundColor:"white"
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+	font: {
+		fontSize: 12
+	},
+	top: 30,
+}
+'#scrollView': {
+	layout: 'vertical'
+}
+'#iniciar': {
+	top: 30,
+	height: 50,
+	width: '80%',
+}
+'#terminar': {
+	top: 20,
+	height: 50,
+	width: '80%',
+}
+'#mapa': {
+	top: 20,
+	height: 50,
+	width: '80%',
+}
